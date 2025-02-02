@@ -20,12 +20,12 @@ Este projeto foi desenvolvido como parte do programa **EmbarcaTech**, tendo como
 5. O botão só pode ser pressionado novamente após a sequência ser concluída.
 6. Implementação de **debounce** via software para evitar múltiplos acionamentos indesejados.
 
-## 📝 Código-Fonte
-
-O código principal foi escrito em **C** utilizando o **Pico SDK**. Ele pode ser encontrado no repositório do projeto:
-
-🔗 [Repositório do Projeto](https://github.com/guilhermejnr/led-timer-button.git)
-
+## 🚀 Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/guilhermejnr/led-timer-button.git
+   ```
+2. Compile e envie o código para o **Raspberry Pi Pico W** utilizando o **Pico SDK**.
 ---
 
 Desenvolvido no programa **EmbarcaTech** 🚀
